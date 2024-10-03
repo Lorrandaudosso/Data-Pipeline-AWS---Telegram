@@ -23,3 +23,6 @@ Este projeto é um pipeline de dados que integra AWS e Telegram. O objetivo é p
 
    ```bash
    git clone https://github.com/Lorrandaudosso/Data-Pipeline-AWS---Telegram.git
+
+Conclusão
+Este projeto demonstra como integrar serviços da AWS com o Telegram para criar um pipeline de dados automatizado e eficiente. Esperamos que este exemplo sirva como uma base útil para seus próprios projetos de integração e automação.
